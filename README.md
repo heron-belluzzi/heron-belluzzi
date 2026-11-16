@@ -1,57 +1,37 @@
-# Hi there, I'm Beluci! 👋
+# Heron Belluzzi
 
-I'm a **Senior AI Engineer & Full Stack Developer** with over 10 years of experience.
-Currently focused on building intelligent SaaS products, RAG systems, and Agentic AI workflows. My background includes high-performance game development and server security.
+**Software Engineer · Backend, Full-Stack & Applied AI**
 
----
+I build and operate software, from real-time systems to web applications with AI features. I have 10+ years of experience in software development and infrastructure, working across APIs, data models, user interfaces, and production operations.
 
-## 🚀 Featured Projects
+Based in Brazil (UTC−3) and open to remote engineering roles and long-term contracts.
 
-### 📰 [Custom News](#)
-> **SaaS | AI | Personalization**
-> An intelligent newsletter platform that cures personalized content using AI agents.
-> * **Stack**: AI Agents, Email Infrastructure, RSS/API Aggregation.
+[Portfolio](https://belluzzi.dev/en) · [Português](https://belluzzi.dev/pt) · [Résumé & experience](https://belluzzi.dev/en/experience) · [LinkedIn](https://www.linkedin.com/in/heron-belluzzi/)
 
-### 🧠 [Flux Planner](#)
-> **Productivity | Generative AI | React Flow**
-> An infinite canvas for project planning that turns ideas into actionable structures using Google Gemini.
-> * **Stack**: React Flow, Google Gemini SDK, Node.js, Vector DB.
+## Open source
 
-### 🛡️ [Flux Anticheat](https://fluxanticheat.com/)
-> **Security | Game Dev | Low-level**
-> A market-leading anti-cheat solution for FiveM servers protecting thousands of players.
-> * **Stack**: Lua, Real-time Threat Detection.
+**[Belluzzi Open Tools](https://github.com/heron-belluzzi/belluzzi-open-tools)** is an Apache-2.0 toolkit I maintain. It includes a QR code studio, a password generator, a campaign link builder, and tools for working with JSON, YAML, and CSV.
 
----
+[Try the toolkit](https://tools.belluzzi.dev/en)
 
-## 💼 Professional Experience
+## Selected projects
 
-### 🪐 [Space Group](https://github.com/Spacerp2022)
-> **Game Servers | Community**
-> Creating immersive roleplay experiences and high-performance FiveM servers.
-> * **Role**: Developer.
+- **[Flux Anticheat](https://fluxanticheat.com/)**. I founded and have operated this FiveM security product since 2020. It combines real-time server protection, a web dashboard, and licensing.
+- **[ExoLua](https://exolua.dev/about)**. I built a custom compiler and micro-VM for protecting distributed Lua scripts.
+- **GenBov**. I designed and built a multi-tenant platform for dairy genetics, with herd management, calculation engines, and a contextual AI assistant.
+- **APP DS**. I built a nutrition and training app with scheduling, payments, and a contextual assistant that uses retrieval-augmented generation (RAG).
+- **CustomNews**. I built the AI curation pipeline and background jobs that turn content sources into personalized newsletters.
+- **Flux Planner**. I built a conversational tool that turns software ideas into architecture plans on an interactive canvas.
 
-### 🔗 [Nexus Group](https://github.com/nexus-Grupo/)
-> **Game Servers | Development**
-> Developing scalable server infrastructure and custom game modes for FiveM.
-> * **Role**: Developer.
+[See the full project portfolio](https://belluzzi.dev/en/projects)
 
----
+## Experience
 
-## 🛠️ Skills & Stack
+I developed full-stack features and improved backend performance for FiveM platforms at Nexus Group and Space Group. At CCN Telecom, I built Heros Manager, a web application for managing telecommunications hardware.
 
-| Domain | Technologies |
-| :--- | :--- |
-| **🤖 AI & ML** | **RAG Systems**, **Vector DBs** ([Vectorizer](https://github.com/hivellm/vectorizer/tree/main)), **LLM Integration** (Gemini/OpenAI), Prompt Engineering, Agentic Workflows |
-| **💻 Frontend** | **React 18**, **TypeScript**, TailwindCSS, Vite, Next.js |
-| **⚙️ Backend** | **Node.js**, Express, **MySQL / MariaDB**, Serverless, API Design, Docker |
-| **🎮 Game Dev** | **Lua** (FiveM/CitizenFX), **C**, Network Optimization, Anti-cheat Development |
-| **🔌 IoT & Hardware** | **Arduino**, **C++**, Device Communication, Prototyping, Automation |
+## Technical focus
 
----
-
-## 🌍 Let's Connect!
-- **Email**: contact@beluci.dev
-- **Discord**: .beluci
-
-Feel free to explore my projects!
+- **Backend & data** · TypeScript, Node.js, REST APIs, MySQL, PostgreSQL
+- **Frontend** · React, Next.js
+- **AI & automation** · LLM integration, RAG, background jobs
+- **Infrastructure & real-time systems** · Docker, Google Cloud, CI/CD, Lua and FiveM
