@@ -6,7 +6,7 @@ I build and operate software, from real-time systems to web applications with AI
 
 Based in Brazil (UTC−3) and open to remote engineering roles and long-term contracts.
 
-[Portfolio](https://belluzzi.dev/en) · [Português](https://belluzzi.dev/pt) · [Résumé & experience](https://belluzzi.dev/en/experience) · [LinkedIn](https://www.linkedin.com/in/heron-belluzzi/)
+[Portfolio](https://belluzzi.dev/en) · [Português](https://belluzzi.dev/pt) · [Experience & CV](https://belluzzi.dev/en/experience) · [LinkedIn](https://www.linkedin.com/in/heron-belluzzi/)
 
 ## Open source
 
